@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cool-coder16
 - 👀 I’m interested in Dungeons and Dragons
-- 🌱 I’m currently learning JS, HTML, CSS
+- 🌱 I’m currently learning AP CS A
 - 📫 How to reach me: vivaanloiwal@gmail.com
 
 <!---
